@@ -1,0 +1,6 @@
+{
+  "url": "https://gitee.com/quanzhouuniversity/patent-writing-assistant/raw/master",
+  "browserFallbackUrl": "https://gitee.com/quanzhouuniversity/patent-writing-assistant/releases",
+  "checkOnStartup": true,
+  "checkIntervalHours": 24
+}

@@ -1,0 +1,2 @@
+Place icon.ico here for custom app icon.
+Electron-builder will use default icon if missing.

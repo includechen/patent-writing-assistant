@@ -1,0 +1,8 @@
+version: 1.3.13
+files:
+  - url: PatentAssistant-Setup-1.3.13.exe
+    sha512: wk4et9elAS4pAZ577greHJuAs53exI1afmDi7k9GmH8JJjky4HncZS9FNKtm0uejLOhchCh87HnxjlEdqzXChA==
+    size: 84387572
+path: PatentAssistant-Setup-1.3.13.exe
+sha512: wk4et9elAS4pAZ577greHJuAs53exI1afmDi7k9GmH8JJjky4HncZS9FNKtm0uejLOhchCh87HnxjlEdqzXChA==
+releaseDate: '2026-06-12T06:50:27.244Z'
